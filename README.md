@@ -43,6 +43,7 @@ The following pins are used for buttons and the LED bar:
 | LED 4     | 9          |                                    |
 | LED 5     | 8          | Last LED (Opponent wins)          |
 
+|----------------|
 |![Buttons](https://github.com/user-attachments/assets/695451e0-6a7b-402c-8869-d8ba3beac484)|
 |*Figure 1: Arduino RPS Game Controls*|
 
@@ -57,6 +58,8 @@ The following pins are used for buttons and the LED bar:
 ## Usage
 
 1. Press the button corresponding to your choice (Rock, Paper, or Scissors).
+
+|----------------|
 |![Screenshot (110)](https://github.com/user-attachments/assets/58dbae4d-3c97-42ed-a1c8-7377f4d4a193)|
 |*Figure 2: LED States for RPS Choices*|
 
@@ -65,6 +68,8 @@ The following pins are used for buttons and the LED bar:
    - **LED5 (Last LED)**: Lights up for a loss (Opponent wins).
    - Both LEDs light up for a draw.
    - All LEDs blink to indicate waiting for a player's turn.
+
+|----------------|
 |![Screenshot (111)](https://github.com/user-attachments/assets/bd7f7f30-d70f-4d67-9a79-fc6205682515)|
 |*Figure 3: LED States for Round Results*|
 
