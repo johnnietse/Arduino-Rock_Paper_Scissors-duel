@@ -42,7 +42,7 @@ The following pins are used for buttons and LEDs:
 | LED 4     | 9          |                                    |
 | LED 5     | 8          | Rightmost LED                      |
 
-## Installation
+## Installation of the Arduino Code
 
 1. Clone this repository or download the code files.
 2. Open the Arduino IDE and load the main `.ino` file.
