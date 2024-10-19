@@ -1,7 +1,7 @@
 # Rock Paper Scissors Duel Game on Arduino
 
 
-## Introduction
+## Overview
 This project is an Arduino implementation of the classic "Rock, Paper, Scissors" (RPS) game. RPS is a hand game played between two players where each player forms one of three shapes (rock, paper, or scissors) simultaneously. The outcome of each round is determined by a set of rules:
 - Rock beats Scissors
 - Scissors beats Paper
