@@ -54,6 +54,8 @@ for the current round.
 
 *Figure 1: Arduino RPS Game Controls*
 
+
+
 ## Installation of the Arduino Code 
 
 1. Clone this repository or download the code files.
@@ -62,15 +64,19 @@ for the current round.
 4. Select the appropriate board and port from the Arduino IDE.
 5. Upload the code to the Arduino.
 
+
 ## Usage
 
 1. Press the button corresponding to your choice (Rock, Paper, or Scissors).
 
 When a new round is begun, the Arduino shows its RPS choice through the LEDs. Figure 2 below shows
 the different LED states for each RPS Choice:
+
 ![Screenshot (110)](https://github.com/user-attachments/assets/58dbae4d-3c97-42ed-a1c8-7377f4d4a193) 
 
 *Figure 2: LED States for RPS Choices*
+
+
 
 2. The LED bar will display the result using the LEDs:
    - **LED1 (First LED)**: Lights up for a win (Arduino wins).
@@ -81,9 +87,12 @@ the different LED states for each RPS Choice:
 
 The Arduino will then determine the winner of the round based on the RPS choices and display it
 through the LEDs, as shown in Figure 3 below:
+
 ![Screenshot (111)](https://github.com/user-attachments/assets/bd7f7f30-d70f-4d67-9a79-fc6205682515) 
 
 *Figure 3: LED States for Round Results*
+
+
 
 3. The game can continue for multiple rounds, tracking the results.
 
